@@ -40,4 +40,4 @@ Clone the repository, install dependencies, and follow the README for setup inst
 
 ---
 
-**Note:** This project extends the original YOLO object detection model by Ultralytics at https://github.com/ultralytics/ultralytics, showcasing advanced application development with Python, Redis, and real-time data processing techniques.
+**Note:** This script adds the ability to perform object detection on multiple IP cameras of YOLOV8 by Ultralytics at https://github.com/ultralytics/ultralytics, showcasing advanced application development with Python, Redis, and real-time data processing techniques.
