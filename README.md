@@ -1,5 +1,3 @@
-# Object Detection
-
 # Multi-Camera Object Detection System
 
 ## Description
